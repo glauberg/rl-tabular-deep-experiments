@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+tensor_test.py
+Modelo_Topicos_Relatorio_Experimentos.md
